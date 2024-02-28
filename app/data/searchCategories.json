@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Adventure"
+    },
+    {
+        "name": "Action"
+    },
+    {
+        "name": "Strategy"
+    },
+    {
+        "name": "Sports"
+    },
+    {
+        "name": "Fighting"
+    },
+    {
+        "name": "Racing"
+    },
+    {
+        "name": "Simulation"
+    },
+    {
+        "name": "Role-playing"
+    },
+    {
+        "name": "Puzzle"
+    },
+    {
+        "name": "Survival"
+    },
+    {
+        "name": "Horror"
+    },
+    {
+        "name": "Platformer"
+    },
+    {
+        "name": "Rhythm"
+    },
+    {
+        "name": "Open World"
+    },
+    {
+        "name": "MMORPG"
+    },
+    {
+        "name": "Educational"
+    },
+    {
+        "name": "Stealth"
+    },
+    {
+        "name": "Party"
+    }
+]

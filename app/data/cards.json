@@ -1,0 +1,80 @@
+[
+    {
+        "name":"VOLARANT",
+        "viewers":"202k",
+        "category":["FPS","Shooter","Action"],
+        "image":"valorant"
+    },
+    {
+        "name":"Just Chatting",
+        "viewers":"204k",
+        "category":["IRL"],
+        "image":"justchatting"
+    },
+    {
+        "name":"Counter-Strike",
+        "viewers":"148k",
+        "category":["FPS","Shooter","Action"],
+        "image":"counterstrike"
+    },
+    {
+        "name":"Apex Legends",
+        "viewers":"45.2k",
+        "category":["FPS","Shooter","Action"],
+        "image":"apexlegends"
+    },
+   
+  
+    {
+        "name":"Dota 2",
+        "viewers":"16.8k",
+        "category":["Strategy","MOBA"],
+        "image":"dota2"
+    },
+    {
+        "name":"Grand Theft Auto V",
+        "viewers":"168k",
+        "category":["FPS","Shooter","Action"],
+        "image":"gtav"
+    },
+   
+  
+    {
+        "name":"Leauge of Legends",
+        "viewers":"126.8k",
+        "category":["Strategy","MOBA"],
+        "image":"leaugeoflegends"
+    },
+    {
+        "name":"HELLDRIVERS 2",
+        "viewers":"10.2k",
+        "category":["Shooter","Action"],
+        "image":"helldriver2"
+    },
+   
+  
+    {
+        "name":"Deep Rock Galatic",
+        "viewers":"1.8k",
+        "category":["AdventureGame"],
+        "image":"deeprockgalatic"
+    },
+    {
+        "name":"Pecific Drive",
+        "viewers":"4.1k",
+        "category":["Driving/Racing"],
+        "image":"pacificdrive"
+    },
+    {
+        "name":"Balatro",
+        "viewers":"3.3k",
+        "category":["Strategy"],
+        "image":"balatro"
+    },
+    {
+        "name":"Skull and Bones",
+        "viewers":"16.8k",
+        "category":["AdventureGame"],
+        "image":"skullandbones"
+    }
+]
